@@ -1,7 +1,7 @@
 # 📋 Projeto Página de Captura
 
 ## 💎 Introdução
-<p> Este projeto tem como objetivo a captura e envio de emails por meio de um formulário integrado à plataforma <a href="https://mailchimp.com/">Mailchimp</a>. Para tal fim, a página que você verá a seguir simula o cadastro em um whorkshop fictício com o fundador da Amazon, Jeff Bezos.</p>
+<p> Este projeto tem como objetivo a captura e envio de emails por meio de um formulário integrado à plataforma <a href="https://mailchimp.com/">Mailchimp</a>. Para isso, a página que você verá a seguir simula o cadastro em um whorkshop fictício com o fundador da Amazon, Jeff Bezos.</p>
 <hr>
 
 ## 📱 Layout Mobile
